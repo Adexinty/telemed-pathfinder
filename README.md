@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/020bca1e-83de-45f8-a449-5bb0cda57594
+**URL**: https://preview--telemed-pathfinder.lovable.app/auth
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/020bca1e-83de-45f8-a449-5bb0cda57594) and start prompting.
+https://preview--telemed-pathfinder.lovable.app/auth
 
 Changes made via Lovable will be committed automatically to this repo.
 
