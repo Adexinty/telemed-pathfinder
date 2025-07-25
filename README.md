@@ -1,6 +1,6 @@
 # Welcome to your Lovable project
 
-## Project info
+## Project link
 
 **URL**: https://preview--telemed-pathfinder.lovable.app/auth
 
